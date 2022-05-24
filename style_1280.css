@@ -1,0 +1,15 @@
+@media screen and (max-width:1280px) {
+    
+    .container {
+       padding: 30px 40px; 
+    }
+
+    .central_panel {
+        margin-right: 60px; 
+     }
+    
+   .categories a {
+       width: 43%;
+       font-size: 14px;
+   }
+}

@@ -1,0 +1,85 @@
+@media screen and (max-width:880px) {
+    
+    .container {
+        padding: 15px 25px;
+    }
+
+    .central_panel {
+        margin-right: 30px;
+    }
+
+    h2 {
+        font-size: 20px;
+    }
+
+    img {
+        width: 32px;
+    }
+
+    header {
+        margin-top: 20px;
+    }
+
+    .schedule_time span:after {
+        left: 69px;
+    }
+
+
+    /* blocks */
+
+    .redblock {
+        top: 180px;
+    }
+
+    .blueblock {
+        top: 394px;
+    }
+
+    .orangeblock {
+        top: 821px;
+    }
+
+
+    /* right panel */
+
+    .right_panel {
+        padding: 15px 20px;
+    }
+
+    .month {
+        margin-top: 0px;
+    }
+
+    .month button img {
+        width: 19px;
+    }
+
+    th {
+        padding-bottom: 50px;
+        font-size: 14px;
+    }
+
+    td {
+        padding-bottom: 30px;
+        font-size: 13px;
+    }
+
+    .right_panel .title_2 {
+        position: static;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .categories {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .categories a {
+        width: 80%;
+        font-size: 14px;
+    }
+
+}

@@ -1,0 +1,82 @@
+@media screen and (max-width:1024px) {
+    
+    .container {
+        padding: 20px 30px;
+    }
+    
+    h2 {
+        font-size: 22px;
+    }
+
+    img {
+        width: 36px;
+    }
+
+    .schedule_time, p {
+        font-size: 14px;
+    }
+
+    .schedule_time span:after {
+        left: 80px;
+    }
+
+
+    .month button img {
+        width: 25px;
+    }
+
+
+    table {
+        margin-top: 30px;
+    }
+
+    th {
+        padding-bottom: 60px;
+    }
+
+    td {
+        padding-bottom: 40px;
+        font-size: 14px;
+    }
+
+
+
+
+    /*  */
+
+    h3 {
+        font-size: 16px;
+        margin: 50px 0 30px 0;
+    }
+
+    .categories a {
+        width: 43%;
+        font-size: 12px;
+    }
+
+
+
+    
+    /* blocks */    
+    
+    .redblock {
+        top: 203px;
+        height: 109px;
+    }
+    
+    .blueblock {
+        top: 417px;
+    }
+
+    .orangeblock {
+        top: 845px;
+        height: 215px;
+    }
+}
+
+
+
+
+
+
+
